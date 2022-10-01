@@ -1,24 +1,18 @@
+div{
+background-color: red;
+color: white;
+font-size: 32px;
+text-align: center;
+font-weight:bold ;
+}
 
+p{
+background-color: green;
+color: white;
+font-size: 18px;
+}
 
-
-h1{color: white;}
-
-h1{background-color: red;}
-
-h1{font-size: 32;}
-
-h1{text-align: center;}
-
-h1{font-weight: bold;}
-
-
-h2{color: white;}
-
-h2{background-color: green;}
-
-h2{font-size: 18;}
-
-h3{background-color: orange;}
-
-h3{font-size: 18;}
-
+button{
+background-color: orange;
+font-size: 18px;
+}
