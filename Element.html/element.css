@@ -1,7 +1,22 @@
-div{
+h1{
 background-color: palevioletred;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-p{color: blue;
+h2{color: blue;
 font-size: 36px;
+}
+h3{
+background-color: palevioletred;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 24px;
+}
+
+h4{background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+  }
+
+h5{
+    background-color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
